@@ -64,7 +64,7 @@ rm -f "$outputFile"
 
 ## 🚀 Пример использования
 
-Удаление старого списка, загрузка и импортно нового списка:
+Удаление старого списка, загрузка и импорт нового списка:
 ```routeros
 /ip firewall address-list remove [find where list=RU]; \
 /tool fetch url=https://raw.githubusercontent.com/pavmiro/routeros-ru-address-list/refs/heads/main/RIPE-RU-latest.rsc check-certificate=yes mode=https; \
