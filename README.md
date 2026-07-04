@@ -1,6 +1,6 @@
 # 🌍 RouterOS 'RU' Address List
 
-[![Auto-updated](https://img.shields.io/badge/обновляется-ежедневно-brightgreen)]()
+[![Auto-updated](https://img.shields.io/badge/обновляется-ежедневно-brightgreen)](https://raw.githubusercontent.com/pavmiro/routeros-ru-address-list/refs/heads/main/RIPE-RU-latest.rsc)
 [![Countries](https://img.shields.io/badge/страны-RU-blue)](https://github.com/pavmiro/routeros-ru-address-list/tree/main/RU)
 [![Source](https://img.shields.io/badge/источник-RIPE%20NCC-orange)](https://ftp.ripe.net/ripe/stats/)
 
