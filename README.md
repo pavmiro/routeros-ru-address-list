@@ -4,7 +4,7 @@
 [![Countries](https://img.shields.io/badge/страны-RU-blue)](https://github.com/pavmiro/routeros-ru-address-list/tree/main/RU)
 [![Source](https://img.shields.io/badge/источник-RIPE%20NCC-orange)](https://ftp.ripe.net/ripe/stats/)
 
-Автоматически формируемый список IP‑адресов с выборкой 'RU' для **MikroTik RouterOS**.
+Автоматически формируемый список IP‑адресов с выборкой 'RU' для **MikroTik RouterOS**.  
 Готовые файлы `.rsc` можно сразу импортировать и использовать в firewall, маршрутизации, QoS и других сценариях.
 
 ---
