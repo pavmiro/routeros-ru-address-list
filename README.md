@@ -77,3 +77,7 @@ add name=schedule_RU start-time=startup on-event="/delay 15\r\
     \n/tool fetch url=https://raw.githubusercontent.com/pavmiro/routeros-ru-address-list/refs/heads/main/RIPE-RU-latest.rsc check-certificate=yes mode=https\r\
     \n/import RIPE-RU-latest.rsc"
 ```
+> [!WARNING]
+> **Загрузка и импорт чужих `.rsc`файлов без предварительного просмотра — крайне опасная практика.**  
+> Скрипт может содержать вредоносные команды, которые скомпрометируют оборудование или сеть.  
+> **Всегда** проверяйте содержимое файла перед импортом и используйте только скрипты из проверенных источников.
